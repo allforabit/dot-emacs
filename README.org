@@ -1,0 +1,26 @@
+* My GNU/Emacs configuration folder
+** Aims
+ - Be as vimmy as possible while augmenting some commands and replacing some
+   shortcuts with more useful commands.
+   - E.g. change movement keys in lisp code
+ - Use as much of spacemacs as possible
+ - Use elements of doom config
+ - Use org setup of https://github.com/novoid/dot-emacs/blob/master/config.org
+ - Be more minimal than spacemacs and possibly not use evil
+   - Instead use ryo-modal, xah or modalka
+ - Heavy use of hydra
+ - Auto entry and exiting of modes depending on pointer location
+   - E.g. lispy normal mode to command mode via ]
+   - Exit entry mode when a structural element is inserted - ]")
+     - Major mode dependent
+ - Quickly accessible navigation hierarchy:
+   - Project
+   - File
+   - Heading
+   - Function
+   - Something like imenu but with a better hierarchy
+ - Keep everything as structural as possible
+ - Operate on a structural level as much as possible
+   - E.g. org-mode, lisp and prettify for js
+   - https://github.com/darwin/plastic, https://github.com/mkremins/flense
+   - Think of it as a database

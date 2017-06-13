@@ -1,0 +1,7 @@
+# -*- mode: org; coding: utf-8; -*-
+# Time-stamp: <2017-06-03 09:58:51 vk>
+# Source:     https://github.com/allforabit/dot-emacs
+# License:    This file is licensed under the GPL v3.
+#+TODO: ACTIVE | DISABLED
+#+STARTUP: indent
+
